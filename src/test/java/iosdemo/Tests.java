@@ -11,7 +11,7 @@ public class Tests extends iosTest{
 	
 
 	@Test
-	public void testTwo() throws InterruptedException {
+	public void iosTest() throws InterruptedException {
 		ExtentTest test = extent.createTest("Test one", "Sample ios Test");
 		
         test.log(Status.INFO, "Test Two Started");
