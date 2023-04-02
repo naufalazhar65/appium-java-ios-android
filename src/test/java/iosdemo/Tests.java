@@ -1,10 +1,8 @@
 package iosdemo;
 
 import org.testng.annotations.Test;
-
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-
 import io.appium.java_client.MobileElement;
 
 public class Tests extends iosTest{
