@@ -9,32 +9,6 @@ import io.appium.java_client.MobileElement;
 
 public class Tests extends iosTest{
 	
-//	@Test
-//	public void testOne() throws InterruptedException {
-//		ExtentTest test = extent.createTest("Test One", "Sample Test");
-//		
-//        test.log(Status.INFO, "Test One Started");
-//        System.out.println("Test 1 Started");
-//
-//		MobileElement el1 = (MobileElement) driver.findElementById("com.instagram.android:id/tab_avatar");
-//		el1.click();
-//        test.log(Status.PASS, "Navigated to profile");
-//		MobileElement el2 = (MobileElement) driver.findElementByAccessibilityId("Shop");
-//		el2.click();
-//        test.log(Status.PASS, "Navigated to shop");
-//		MobileElement el3 = (MobileElement) driver.findElementByAccessibilityId("Reels");
-//		el3.click();
-//        test.log(Status.PASS, "Navigated to reels");
-//		MobileElement el4 = (MobileElement) driver.findElementByAccessibilityId("Search and explore");
-//		el4.click();
-//        test.log(Status.PASS, "Navigated to explore");
-//		MobileElement el5 = (MobileElement) driver.findElementByXPath("//android.widget.FrameLayout[@content-desc=\"Home\"]");
-//		el5.click();		
-//        test.log(Status.INFO, "Test Completed");
-//        Thread.sleep(5000);
-//        
-//		
-//	}
 
 	@Test
 	public void testTwo() throws InterruptedException {
