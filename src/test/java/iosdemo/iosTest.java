@@ -62,12 +62,6 @@ public class iosTest extends ExtentReport{
 
 	}
 	
-	@Test
-	public void sampleTest( ) {
-		System.out.println("im in Test");
-	}
-	
-	
 	@AfterTest
 	public void teardown() {
 		
