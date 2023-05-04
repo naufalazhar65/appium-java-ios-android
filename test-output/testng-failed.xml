@@ -7,9 +7,9 @@
         <methods>
           <include name="teardown"/>
           <include name="setUp"/>
+          <include name="testB"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="testTwo"/>
         </methods>
       </class> <!-- iosdemo.Tests -->
     </classes>
